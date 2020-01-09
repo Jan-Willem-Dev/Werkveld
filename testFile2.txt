@@ -1,1 +1,3 @@
 Dit is maar een eenvoudige test tekst.
+
+Test voor zelfde file maar andere lijn.
